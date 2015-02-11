@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://bmnotes.vincenttt.com/sitemap.xml 
+Sitemap: http://vc7.github.io/bmnotes.vincenttt.com/sitemap.xml 
